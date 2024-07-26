@@ -9,4 +9,4 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 
 #### Newsletter
 
-* [Learn Analytics Engineering]([https://www.fundsexplorer.com.br/](https://learnanalyticsengineering.substack.com/subscribe)) 
+* [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/subscribe)) 

@@ -8,7 +8,6 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 * [Spatial data](#spatial-data)
 
 ---
-
 ### Data Engineering
 
 #### Newsletters
@@ -21,7 +20,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 * :brazil: [Luciano Vasconcelos Filho](https://www.linkedin.com/in/lucianovasconcelosf/)
 * :us: [Zach Wilson](https://www.linkedin.com/in/eczachly/)
 
-
+---
 ### Data News
 
 #### Newsletters
@@ -29,7 +28,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 
 #### People
 
-
+---
 ### Spatial data
 
 #### Newsletters

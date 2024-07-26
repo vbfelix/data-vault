@@ -1,4 +1,4 @@
-# data-vault
+# Data Vault
 A curated repository to help you keep current in the ever-changing data ecosystem
 
 ## Summary
@@ -15,7 +15,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 ### Data News
 
 #### Newsletters
-* :brazil: [Data Hackers](https://www.datahackers.news/)
+* <span>&#x1f1e7;&#x1f1f7;</span> [Data Hackers](https://www.datahackers.news/)
 
 
 ### Spatial analysis

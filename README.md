@@ -3,9 +3,9 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 
 ## Summary
 
-[Data Engineering](#data-engineer)
-[Data News](#data-news)
-[Spatial data](#spatial-data)
+* [Data Engineering](#data-engineer)
+* [Data News](#data-news)
+* [Spatial data](#spatial-data)
 
 
 ### Data Engineering

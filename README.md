@@ -7,6 +7,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 * [Data News](#data-news)
 * [Spatial data](#spatial-data)
 
+---
 
 ### Data Engineering
 

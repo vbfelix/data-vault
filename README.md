@@ -42,6 +42,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 * :us: [TerraWatch Space](https://newsletter.terrawatchspace.com/subscribe)
 
 #### People
+* :us: [Kyle Walker](https://www.linkedin.com/in/walkerke/)
 
 ---
 ### Web scraper

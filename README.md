@@ -17,6 +17,7 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 * :us: [Data Engineering Weekly](https://www.dataengineeringweekly.com/subscribe)
 
 #### People
+* :us: [Axel Thevenot](https://www.linkedin.com/in/axel-thevenot/)
 * :brazil: [Bruno Souza de Lima](https://www.linkedin.com/in/brunoszdl/)
 * :brazil: [Cicero Moura](https://www.linkedin.com/in/cicero-moura/)
 * :brazil: [Luciano Vasconcelos Filho](https://www.linkedin.com/in/lucianovasconcelosf/)

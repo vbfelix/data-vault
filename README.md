@@ -50,9 +50,6 @@ A curated repository to help you keep current in the ever-changing data ecosyste
 
 #### Newsletters
 
-* :us: [The Spatial Edge](https://yohaniddawela.substack.com/subscribe)
-* :us: [TerraWatch Space](https://newsletter.terrawatchspace.com/subscribe)
-
 #### People
 * :us: [Ahmad Raza](https://www.linkedin.com/in/ahmad-raza-b2b341208/)
 * :us: [Pierluigi Vinciguerra](https://www.linkedin.com/in/pierluigivinciguerra/)
